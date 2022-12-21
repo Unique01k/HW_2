@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tag> 
+ 	<check>Operation with files</check>
+	<result>Passed</result>
+	<check>Create files</check>
+	<result>Passed</result>
+	<check>Create branch</check>
+	<result>Passed</result>
+	<check>Push to GitHub</check>
+	<result>Passed</result>
+</tag>
+
